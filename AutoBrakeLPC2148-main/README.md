@@ -21,7 +21,5 @@ Automated Braking System for vehicles.
 | P1.16  |   |   | EN1  |
 | P1.17  |   |   | EN2  |
 
-U can reffer proteus file for better understanding of connections [Proteus File](https://github.com/StrangeAJ/AutoBrakeLPC2148/blob/main/Mini%20Project.pdsprj)
 
-## Simulation
-Software Simulation has done and has uploaded [Proteus File](https://github.com/StrangeAJ/AutoBrakeLPC2148/blob/main/Mini%20Project.pdsprj)
+
